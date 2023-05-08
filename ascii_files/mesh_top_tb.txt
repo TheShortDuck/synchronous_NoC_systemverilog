@@ -1,0 +1,2058 @@
+Testbench for mesh_top module
+Time:         5
+
+Time:        15
+
+Time:        25
+
+Time:        35
+
+Time:        45
+
+Time:        55
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000023
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2100000023
+
+Time:        65
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:020000002d
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:120000002d
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1200000023
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3100000023
+
+Time:        75
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2200000023
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:110000002d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1100000023
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:010000002d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000037
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3000000023
+
+Time:        85
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0100000037
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:000000002d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3200000023
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1200000037
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0000000037
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000041
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:030000002d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0000000023
+
+Time:        95
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:330000002d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:320000002d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3000000037
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:200000002d
+
+Time:       105
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1000000037
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0000000041
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1100000041
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:100000004b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:110000004b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2200000041
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1200000041
+
+Time:       115
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3000000041
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:0100000055
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1000000041
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:120000004b
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0300000055
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1100000055
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1300000055
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2000000055
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:330000005f
+
+Time:       125
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:110000005f
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:200000004b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:020000005f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0000000055
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0200000055
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:010000004b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:100000005f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:1000000055
+
+Time:       135
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:3000000055
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:200000005f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0300000069
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:010000005f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1300000069
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3100000073
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2100000069
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:120000005f
+
+Time:       145
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1200000069
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:1100000073
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2200000069
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:210000005f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:000000005f
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2100000073
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0100000069
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3200000069
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1000000069
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2300000073
+
+Time:       155
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1200000073
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000069
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:310000005f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:130000007d
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:120000007d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0200000073
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2300000087
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:320000007d
+
+Time:       165
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:210000007d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2000000069
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0000000087
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1200000091
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1000000087
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1200000087
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3000000091
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:2000000087
+
+Time:       175
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:200000007d
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:300000007d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2200000087
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:100000007d
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000091
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:000000007d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1000000091
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:0100000087
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000073
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1100000087
+
+Time:       185
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:220000007d
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:01000000a5
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2100000091
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:110000009b
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:000000009b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:010000007d
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:200000009b
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2000000091
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2200000091
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:310000009b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3000000087
+
+Time:       195
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:11000000a5
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:10000000af
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0200000087
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:21000000a5
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3300000091
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:300000009b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:210000009b
+
+Time:       205
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0300000091
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:13000000af
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:11000000af
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:12000000a5
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:21000000af
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:010000009b
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:31000000b9
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:20000000a5
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:23000000af
+
+Time:       215
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:13000000a5
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:31000000a5
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:12000000c3
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:030000009b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000000af
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:00000000af
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:02000000af
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:00000000a5
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:30000000af
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:20000000af
+
+Time:       225
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:21000000b9
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:20000000b9
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:02000000b9
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:01000000c3
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:10000000b9
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:00000000b9
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000000b9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:02000000a5
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:12000000b9
+
+Time:       235
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:22000000c3
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:01000000cd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:30000000b9
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:20000000d7
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:11000000c3
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:32000000c3
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000000c3
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:21000000c3
+
+Time:       245
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:22000000cd
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:20000000cd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:03000000e1
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:13000000c3
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:12000000d7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:02000000cd
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:10000000d7
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:13000000d7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:00000000c3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:10000000cd
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:13000000cd
+
+Time:       255
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:22000000d7
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:30000000cd
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:03000000cd
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:00000000d7
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:01000000d7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:12000000cd
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:00000000cd
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:23000000e1
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:33000000eb
+
+Time:       265
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:01000000e1
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:31000000d7
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:01000000eb
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:12000000e1
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:10000000e1
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:02000000d7
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:11000000e1
+
+Time:       275
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:12000000eb
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:20000000e1
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:31000000e1
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:13000000e1
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:10000000f5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:00000000eb
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:22000000ff
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000000eb
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:02000000e1
+
+Time:       285
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:30000000d7
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:00000000f5
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:02000000eb
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2200000109
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:12000000ff
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:03000000eb
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:11000000f5
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:21000000f5
+
+Time:       295
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1000000109
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0300000109
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000113
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1100000109
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1200000109
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:13000000eb
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3000000109
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:02000000f5
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:12000000f5
+
+Time:       305
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:23000000ff
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1200000113
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0100000113
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:01000000ff
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:21000000ff
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2100000113
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2300000113
+
+Time:       315
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:120000011d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0000000109
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2200000113
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3000000113
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2000000109
+
+Time:       325
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0300000113
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3100000113
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3200000109
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1300000113
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0100000127
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:100000011d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1100000127
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:010000011d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0000000113
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:220000011d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:210000011d
+
+Time:       335
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:320000011d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2200000127
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:000000011d
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2000000131
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1000000127
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1200000127
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:300000013b
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:310000013b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2200000131
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:300000011d
+
+Time:       345
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3000000127
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0000000127
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:010000013b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:020000013b
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1300000145
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:100000013b
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:110000013b
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0100000131
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:200000013b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2000000127
+
+Time:       355
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3300000131
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0000000131
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:000000013b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1000000145
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3200000131
+
+Time:       365
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0100000159
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1000000159
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:030000013b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000159
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3000000159
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:300000014f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1000000131
+
+Time:       375
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:120000014f
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000159
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:230000014f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0200000159
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000163
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3300000145
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1100000145
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:110000014f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2300000159
+
+Time:       385
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:330000014f
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000163
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1300000163
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0200000163
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1100000159
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0300000131
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:200000014f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0000000145
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:000000014f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0100000145
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3100000159
+
+Time:       395
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0000000177
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:2100000163
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3200000159
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3100000145
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1200000163
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1100000177
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:110000016d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:010000014f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:1100000163
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:200000016d
+
+Time:       405
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:220000016d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2300000163
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1100000181
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:010000016d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:120000016d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0300000163
+
+Time:       415
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:210000016d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2300000177
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0100000181
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2100000177
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:000000016d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:030000016d
+
+Time:       425
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2100000181
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:3000000177
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1000000177
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1200000181
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:110000018b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:010000018b
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1000000181
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:100000016d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:210000018b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0200000177
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:320000018b
+
+Time:       435
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1000000195
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2000000177
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3000000181
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0200000181
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0100000195
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2100000195
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2200000195
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:300000019f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:100000018b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0000000181
+
+Time:       445
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1300000181
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1200000195
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:300000018b
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:120000018b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0000000195
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:21000001a9
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2000000195
+
+Time:       455
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:10000001a9
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:12000001a9
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3200000181
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:10000001b3
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:110000019f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0200000195
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:31000001b3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1100000195
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:32000001a9
+
+Time:       465
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:11000001a9
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:11000001b3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:22000001a9
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:100000019f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:000000019f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:13000001b3
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:31000001bd
+
+Time:       475
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:31000001a9
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:01000001b3
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:11000001bd
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:03000001b3
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:00000001a9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:21000001bd
+
+Time:       485
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:33000001b3
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:22000001bd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:01000001bd
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:02000001b3
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:10000001c7
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:11000001c7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:01000001a9
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:20000001c7
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:20000001b3
+
+Time:       495
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:02000001c7
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:00000001b3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:30000001b3
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:11000001d1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:23000001db
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:12000001c7
+
+Time:       505
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:02000001d1
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:12000001db
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:33000001c7
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:03000001c7
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:13000001db
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:30000001e5
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:21000001d1
+
+Time:       515
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:03000001d1
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:11000001e5
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:01000001d1
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:02000001e5
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:00000001d1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:02000001db
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000001db
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:31000001db
+
+Time:       525
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:32000001db
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:01000001ef
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:10000001ef
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:10000001e5
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:00000001c7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:12000001e5
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:00000001db
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:21000001ef
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:20000001db
+
+Time:       535
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:10000001f9
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:12000001f9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:13000001e5
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:20000001ef
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:22000001ef
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:12000001ef
+
+Time:       545
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:02000001f9
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:22000001f9
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0100000203
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1200000203
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:33000001ef
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:30000001f9
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:11000001f9
+
+Time:       555
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:110000020d
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:100000020d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0200000203
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:03000001f9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:00000001e5
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:210000020d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1100000203
+
+Time:       565
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1000000203
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:000000020d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2100000217
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2100000221
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:300000020d
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:00000001f9
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0000000203
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2000000203
+
+Time:       575
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1200000217
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:1000000221
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:200000020d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0000000221
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1000000217
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:130000022b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2000000221
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0100000217
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2200000217
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:010000020d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:020000020d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1100000217
+
+Time:       585
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1200000221
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3200000217
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3200000203
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1000000235
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0200000217
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:020000022b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:100000022b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2100000235
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3200000221
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:0000000217
+
+Time:       595
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:120000022b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:1100000235
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0300000217
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:200000023f
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:210000023f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:030000022b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:110000022b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0300000221
+
+Time:       605
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1300000217
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:210000022b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2200000235
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:110000023f
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:000000022b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0100000221
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:220000023f
+
+Time:       615
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:320000022b
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3200000235
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0000000235
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:120000023f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0200000249
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1100000249
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:0100000235
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2000000235
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:100000023f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0200000235
+
+Time:       625
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1100000253
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:300000023f
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:320000023f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1300000253
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0300000235
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1200000253
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2000000253
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2000000249
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2200000253
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:000000023f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:310000023f
+
+Time:       635
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:030000023f
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:3100000249
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:130000025d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1300000249
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:020000025d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000267
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:0000000253
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0300000253
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0000000249
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1000000249
+
+Time:       645
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1100000267
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:120000025d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:210000025d
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:110000025d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:230000025d
+
+Time:       655
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:300000025d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1200000271
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:310000025d
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000271
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1100000271
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0000000267
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:100000025d
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:000000025d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1000000267
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:010000025d
+
+Time:       665
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:100000027b
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3000000267
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:320000025d
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0100000271
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:110000027b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0200000267
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0100000267
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:320000027b
+
+Time:       675
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:200000027b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:1000000285
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3300000267
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:010000027b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:200000028f
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1100000285
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0300000271
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1000000271
+
+Time:       685
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2000000285
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2000000271
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1000000299
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:010000028f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:030000028f
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2200000285
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0100000285
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:310000028f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0300000267
+
+Time:       695
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:10000002a3
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:100000028f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0200000299
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:220000028f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3000000299
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:300000028f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0200000285
+
+Time:       705
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:12000002a3
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:030000027b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:11000002a3
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:110000028f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:000000028f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1100000299
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:31000002a3
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:000000027b
+
+Time:       715
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:02000002a3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2200000299
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:11000002b7
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000002ad
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:00000002a3
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:22000002b7
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:03000002a3
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:120000028f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:0000000299
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0100000299
+
+Time:       725
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:21000002a3
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:21000002ad
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:02000002c1
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:12000002c1
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:20000002c1
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:21000002c1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:13000002b7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:12000002ad
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:21000002b7
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:01000002a3
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:11000002ad
+
+Time:       735
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:02000002cb
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:12000002cb
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:10000002ad
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:02000002ad
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:00000002ad
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:11000002c1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:03000002b7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:32000002ad
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:31000002ad
+
+Time:       745
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:22000002c1
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:00000002cb
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:20000002ad
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:10000002b7
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000002cb
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:01000002b7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:33000002b7
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:32000002d5
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:30000002b7
+
+Time:       755
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:01000002d5
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:11000002cb
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:32000002c1
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:12000002d5
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:00000002d5
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:00000002c1
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:13000002df
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:21000002d5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:21000002df
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:03000002cb
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:30000002df
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:01000002c1
+
+Time:       765
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:33000002cb
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:11000002df
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:10000002d5
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:12000002df
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:00000002df
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:11000002e9
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:02000002df
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:10000002df
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:20000002cb
+
+Time:       775
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:02000002f3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:32000002cb
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000002e9
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:22000002df
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000002df
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:20000002d5
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:30000002e9
+
+Time:       785
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:32000002df
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:00000002f3
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:21000002e9
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:11000002d5
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000002f3
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:03000002f3
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:03000002df
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:20000002df
+
+Time:       795
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0100000307
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:22000002f3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:02000002fd
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:03000002e9
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:10000002fd
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:12000002f3
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:10000002e9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:11000002f3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:02000002e9
+
+Time:       805
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:30000002f3
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:32000002f3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:22000002fd
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:10000002f3
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:20000002f3
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:13000002fd
+
+Time:       815
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2000000307
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:31000002f3
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:32000002fd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2300000307
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:00000002fd
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1100000311
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000002fd
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1200000311
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1100000307
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3000000307
+
+Time:       825
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2000000311
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3100000307
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1000000307
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:000000031b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:010000031b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2200000311
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1000000311
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0000000307
+
+Time:       835
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:200000031b
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:21000002fd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:120000031b
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0000000325
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:120000032f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:110000031b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:020000031b
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1300000325
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0100000311
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:2100000325
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3000000311
+
+Time:       845
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:210000031b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:300000031b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:100000031b
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1000000339
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:010000032f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1000000325
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:100000032f
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2000000325
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3100000325
+
+Time:       855
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:130000031b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0100000343
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:210000032f
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0100000339
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0300000325
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2000000339
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:200000032f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:220000032f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3100000339
+
+Time:       865
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:030000032f
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:100000034d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0200000339
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2100000343
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:230000032f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3000000339
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:020000032f
+
+Time:       875
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1000000343
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:130000034d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:110000034d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1200000343
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2100000357
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:210000034d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0000000339
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3100000357
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2000000343
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:230000034d
+
+Time:       885
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1100000343
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3100000343
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:010000034d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:020000034d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0000000343
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3000000357
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:200000034d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2100000339
+
+Time:       895
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0100000361
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2300000357
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000361
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1100000361
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0000000357
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0200000343
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1000000357
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1100000357
+
+Time:       905
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2100000361
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0100000357
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1200000361
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:100000036b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:1200000339
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0200000357
+
+Time:       915
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:200000036b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:210000036b
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:000000036b
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:020000036b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:120000037f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0300000375
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:010000036b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:210000037f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000361
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3300000357
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:110000036b
+
+Time:       925
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2100000375
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:110000037f
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3200000361
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:130000036b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1200000389
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1100000375
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0100000375
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:330000036b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1200000375
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2000000361
+
+Time:       935
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3200000375
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:3000000375
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:220000037f
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1100000389
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1000000389
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2000000389
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:010000037f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000375
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0000000375
+
+Time:       945
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2200000361
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2200000389
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:000000037f
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:030000037f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0100000393
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1100000393
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:200000037f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:2100000393
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2200000393
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2100000389
+
+Time:       955
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0200000389
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3100000389
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:120000039d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1200000393
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0200000393
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:13000003a7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1300000389
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:200000039d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0000000389
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:020000037f
+
+Time:       965
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:100000039d
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:3000000393
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:320000037f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:12000003a7
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000003a7
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:110000039d
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:010000039d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:020000039d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0300000389
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:0100000389
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3000000389
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0300000393
+
+Time:       975
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:11000003a7
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:11000003b1
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:22000003bb
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:03000003a7
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000003a7
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:33000003bb
+
+Time:       985
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:23000003a7
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:10000003b1
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:30000003a7
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:13000003c5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:20000003b1
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:02000003a7
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:20000003a7
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:33000003c5
+
+Time:       995
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:01000003cf
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:10000003bb
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:21000003b1
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:13000003b1
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:01000003b1
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:00000003b1
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:00000003a7
+
+Time:      1005
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:12000003c5
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:20000003bb
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:22000003b1
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:31000003b1
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:02000003c5
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:22000003c5
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:10000003c5
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:01000003bb
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:00000003bb
+
+Time:      1015
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:03000003c5
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:12000003e3
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:00000003c5
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:21000003d9
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:20000003d9
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:11000003c5
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:02000003bb
+
+Time:      1025
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:20000003cf
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:13000003e3
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:10000003d9
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:03000003d9
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:20000003c5
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:22000003d9
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:00000003cf
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:10000003cf
+
+Time:      1035
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:31000003d9
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:02000003e3
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:01000003e3
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:13000003d9
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000003e3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:30000003d9
+
+Time:      1045
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:20000003ed
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:21000003ed
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:03000003e3
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:03000003f7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:23000003e3
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:01000003ed
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:33000003cf
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:11000003ed
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:00000003e3
+
+Time:      1055
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:21000003f7
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:20000003f7
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:10000003ed
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:02000003ed
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:00000003f7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:01000003f7
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:210000040b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:32000003f7
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3000000401
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:31000003f7
+
+Time:      1065
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:110000040b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0100000401
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:010000040b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0200000401
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:120000040b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:20000003e3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:310000040b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3100000401
+
+Time:      1075
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:220000040b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000415
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:100000040b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1200000415
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0100000415
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000401
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:12000003f7
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:300000040b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:13000003f7
+
+Time:      1085
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:010000041f
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:110000041f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:120000041f
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:100000041f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2000000401
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:000000040b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2200000415
+
+Time:      1095
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:320000040b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:210000041f
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0100000429
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1100000429
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1000000429
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000415
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2300000429
+
+Time:      1105
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:030000041f
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:2000000429
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2100000429
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:020000041f
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000433
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:120000043d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2100000433
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1300000433
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:1200000429
+
+Time:      1115
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:110000043d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:220000041f
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0300000429
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1000000433
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1200000433
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3300000429
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1100000433
+
+Time:      1125
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000447
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3200000433
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:000000043d
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:020000043d
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1200000447
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1100000447
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:320000043d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0200000433
+
+Time:      1135
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:300000043d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1000000447
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:100000043d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:230000045b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:220000043d
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:010000043d
+
+Time:      1145
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:010000045b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2000000447
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0200000451
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1100000465
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1200000465
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0100000451
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:200000045b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1100000451
+
+Time:      1155
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3100000451
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3200000447
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2100000451
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:100000046f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:020000045b
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0000000451
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:200000046f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000451
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:110000045b
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3000000451
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3000000447
+
+Time:      1165
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:310000045b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:000000046f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2100000465
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1000000465
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:100000045b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:220000045b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0000000465
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:110000046f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:220000046f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:300000046f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:000000045b
+
+Time:      1175
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3100000465
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:300000045b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2300000465
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1000000479
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0100000479
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:010000046f
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:120000046f
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2100000483
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3100000479
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:210000046f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3200000483
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0100000465
+
+Time:      1185
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3000000465
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:320000046f
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1000000483
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1300000465
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0300000479
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3200000479
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:020000046f
+
+Time:      1195
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3200000465
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3000000479
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:010000048d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1300000479
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2000000483
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1200000483
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3300000497
+
+Time:      1205
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:210000048d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1300000483
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000497
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0000000483
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:100000048d
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:2000000497
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2200000497
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0000000479
+
+Time:      1215
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:130000048d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2100000497
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1200000497
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:02000004a1
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:10000004a1
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:0200000497
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:23000004ab
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:020000048d
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:000000048d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1100000497
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:33000004ab
+
+Time:      1225
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:00000004b5
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:11000004ab
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:330000048d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1300000497
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000497
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0300000483
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:0100000497
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:30000004a1
+
+Time:      1235
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:33000004a1
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:11000004b5
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:11000004a1
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:01000004a1
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:12000004bf
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:13000004bf
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:00000004ab
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:12000004ab
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:00000004a1
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:32000004b5
+
+Time:      1245
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:01000004bf
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:20000004b5
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:11000004bf
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:03000004a1
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000004ab
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:10000004b5
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:22000004bf
+
+Time:      1255
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:01000004c9
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:10000004c9
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:00000004bf
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:02000004c9
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:03000004b5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:11000004c9
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:13000004c9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:30000004d3
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:31000004d3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:22000004c9
+
+Time:      1265
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:02000004b5
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:00000004d3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:23000004c9
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000004d3
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:22000004b5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:10000004d3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:31000004c9
+
+Time:      1275
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:03000004c9
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:22000004d3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:11000004d3
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:01000004dd
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:02000004dd
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:10000004dd
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:03000004d3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:00000004c9
+
+Time:      1285
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:32000004d3
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:22000004dd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:03000004f1
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:00000004dd
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:22000004e7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:33000004d3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:21000004dd
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:33000004f1
+
+Time:      1295
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:01000004f1
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:20000004e7
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:02000004e7
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:02000004f1
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:03000004dd
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:20000004f1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:13000004f1
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:11000004e7
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:30000004dd
+
+Time:      1305
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1100000505
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:12000004fb
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000004e7
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:00000004f1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:13000004fb
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:12000004e7
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:00000004e7
+
+Time:      1315
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:22000004fb
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:23000004fb
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:00000004fb
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:10000004e7
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1000000505
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:01000004fb
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:02000004fb
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:21000004fb
+
+Time:      1325
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:10000004fb
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:020000050f
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000519
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:210000050f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3300000505
+
+Time:      1335
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1100000519
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0100000523
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2000000505
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0100000519
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1200000519
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:220000050f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1300000519
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0000000505
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0200000505
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2200000519
+
+Time:      1345
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0200000519
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:300000050f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3000000505
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:200000050f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:100000050f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:000000050f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:310000052d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1000000519
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:310000050f
+
+Time:      1355
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1200000523
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0000000519
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:020000052d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:200000052d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:220000052d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:010000050f
+
+Time:      1365
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0000000541
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1200000537
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0100000537
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1300000523
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:110000052d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0000000523
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1000000523
+
+Time:      1375
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0200000537
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1000000537
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:100000052d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:130000052d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3200000523
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:010000052d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:210000052d
+
+Time:      1385
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:2000000541
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0200000541
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:010000054b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2300000537
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0100000541
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:1300000537
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1100000541
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3000000541
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:320000054b
+
+Time:      1395
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1300000541
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:210000054b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1000000541
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0000000555
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0000000537
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:020000054b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:000000054b
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:2000000555
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:320000055f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3200000555
+
+Time:      1405
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:110000055f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0100000555
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:020000055f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:100000054b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0200000555
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2100000555
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:330000054b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:200000054b
+
+Time:      1415
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:100000055f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1200000569
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0100000569
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:000000055f
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:220000055f
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:200000055f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000555
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:130000054b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:120000054b
+
+Time:      1425
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:300000055f
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1000000569
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1300000573
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000573
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2200000573
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:010000055f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2200000569
+
+Time:      1435
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0200000573
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:0000000569
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:130000057d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:010000057d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000587
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:110000057d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:310000057d
+
+Time:      1445
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:3100000573
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:310000055f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2000000573
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0300000573
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2300000573
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1100000569
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:100000057d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:210000057d
+
+Time:      1455
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:330000057d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:000000057d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:230000057d
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:210000059b
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2100000587
+
+Time:      1465
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:100000059b
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:010000059b
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:10000005a5
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1100000591
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2300000587
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:21000005a5
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:31000005a5
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0000000587
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:320000059b
+
+Time:      1475
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:110000059b
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:11000005a5
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:220000059b
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0100000591
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1000000591
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0000000591
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:12000005a5
+
+Time:      1485
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:00000005b9
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:20000005a5
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2100000591
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:23000005a5
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:11000005b9
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:11000005af
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:12000005af
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:20000005af
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:30000005af
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:13000005a5
+
+Time:      1495
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:00000005c3
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:310000059b
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:21000005af
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:01000005af
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:01000005b9
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:10000005af
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:03000005a5
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:000000059b
+
+Time:      1505
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:33000005a5
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:00000005a5
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:02000005b9
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:00000005af
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:31000005cd
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:02000005af
+
+Time:      1515
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:33000005b9
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:01000005cd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:30000005b9
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:11000005d7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:22000005b9
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:11000005cd
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:20000005c3
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:12000005cd
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:30000005d7
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:30000005c3
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:33000005d7
+
+Time:      1525
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:01000005c3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:32000005b9
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:13000005c3
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:10000005cd
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:02000005d7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:23000005c3
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:02000005cd
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:21000005d7
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:11000005c3
+
+Time:      1535
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:21000005cd
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:11000005e1
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:00000005e1
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:10000005c3
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:22000005cd
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:21000005eb
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:12000005d7
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:21000005e1
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:20000005cd
+
+Time:      1545
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:00000005cd
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:22000005eb
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:12000005e1
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000005e1
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:32000005f5
+
+Time:      1555
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:00000005ff
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:03000005ff
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:02000005eb
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:12000005f5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:20000005f5
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:00000005eb
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:23000005cd
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:01000005e1
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:31000005f5
+
+Time:      1565
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:23000005e1
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:21000005f5
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:11000005f5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000005eb
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:01000005f5
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:20000005ff
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:30000005ff
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:02000005e1
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3300000609
+
+Time:      1575
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1000000609
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:33000005eb
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:13000005f5
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:01000005ff
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000005ff
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:00000005f5
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:03000005f5
+
+Time:      1585
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:22000005ff
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000613
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2000000609
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:10000005eb
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0100000613
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0000000609
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1200000609
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1100000613
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2100000613
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2200000613
+
+Time:      1595
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0200000613
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:100000061d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2200000609
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1200000613
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:020000061d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2300000609
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:110000061d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:130000061d
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:1300000609
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:220000061d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0100000609
+
+Time:      1605
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0300000609
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000627
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:230000061d
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0200000627
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1000000627
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3000000627
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:310000061d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3300000631
+
+Time:      1615
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:030000061d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1200000631
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1100000627
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0000000631
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0200000631
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1000000631
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:220000063b
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:230000063b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3200000627
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:000000061d
+
+Time:      1625
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3100000627
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2100000631
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:010000063b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0100000627
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:030000063b
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:120000063b
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0300000627
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2300000627
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2000000631
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1100000631
+
+Time:      1635
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1200000645
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0300000631
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:000000063b
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:020000063b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:300000064f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:100000063b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:110000063b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2300000645
+
+Time:      1645
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:330000063b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:130000064f
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:100000064f
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:020000064f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2100000645
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3000000631
+
+Time:      1655
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:120000064f
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:1200000659
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:010000064f
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0100000659
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0000000645
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:220000064f
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2000000645
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000645
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3100000659
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:310000064f
+
+Time:      1665
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:1000000663
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:000000064f
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:200000066d
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:210000066d
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2000000659
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:030000064f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3200000659
+
+Time:      1675
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:2100000663
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:0000000663
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1000000659
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1200000677
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:030000066d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000677
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0000000659
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1200000663
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0100000663
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3000000659
+
+Time:      1685
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:3300000663
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:200000064f
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1100000677
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000677
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:110000066d
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:000000066d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2000000663
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3000000677
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:300000066d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:230000066d
+
+Time:      1695
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:020000066d
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:310000066d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3000000663
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1300000663
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2000000681
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:230000068b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2200000677
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:2100000681
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:010000066d
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2200000681
+
+Time:      1705
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0300000677
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1300000695
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0200000681
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:120000068b
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:100000066d
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1100000681
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0100000677
+
+Time:      1715
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0100000695
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:010000069f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:010000068b
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:0000000695
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:000000068b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2000000695
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0000000681
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:0100000681
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3300000695
+
+Time:      1725
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:220000068b
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:320000068b
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:1200000695
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1000000695
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2200000695
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:23000006a9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:020000068b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1100000695
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3100000695
+
+Time:      1735
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:02000006b3
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:12000006a9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0300000681
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:21000006a9
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:130000069f
+
+Time:      1745
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:02000006bd
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:300000069f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:11000006b3
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:20000006b3
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:20000006a9
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:11000006a9
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:220000069f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:10000006a9
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:22000006a9
+
+Time:      1755
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:21000006b3
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:11000006bd
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:22000006b3
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:10000006b3
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:00000006a9
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:30000006b3
+
+Time:      1765
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:31000006b3
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:13000006c7
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:01000006c7
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:00000006bd
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:21000006c7
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:03000006bd
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:00000006b3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:31000006c7
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:21000006bd
+
+Time:      1775
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:02000006c7
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:10000006d1
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:10000006c7
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:33000006bd
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:11000006db
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000006d1
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:12000006d1
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:21000006d1
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:20000006d1
+
+Time:      1785
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:02000006e5
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:11000006d1
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000006db
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:13000006b3
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:00000006d1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:20000006c7
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:30000006db
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:13000006d1
+
+Time:      1795
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:31000006d1
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:00000006e5
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:21000006db
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:03000006ef
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:01000006e5
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:03000006e5
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:12000006db
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:02000006d1
+
+Time:      1805
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:10000006ef
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:22000006e5
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:03000006db
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:11000006ef
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:10000006db
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:11000006e5
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:02000006db
+
+Time:      1815
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:30000006e5
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:21000006ef
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:22000006ef
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:10000006f9
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:01000006ef
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:00000006ef
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:20000006e5
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:21000006e5
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:20000006f9
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:13000006ef
+
+Time:      1825
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:21000006f9
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:31000006e5
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:23000006f9
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:10000006e5
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1100000703
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1200000703
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:23000006d1
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:30000006f9
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:330000070d
+
+Time:      1835
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2000000703
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:31000006f9
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:11000006f9
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:000000070d
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:010000070d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2200000703
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:00000006f9
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1000000703
+
+Time:      1845
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:200000070d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:120000070d
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0100000717
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1100000717
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:110000070d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1000000717
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2100000717
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0100000703
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:3000000703
+
+Time:      1855
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1000000721
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:310000070d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:100000070d
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1100000721
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0000000717
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2100000721
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:2000000721
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:01000006f9
+
+Time:      1865
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:210000070d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:3000000717
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:110000072b
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:000000072b
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1200000717
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0000000721
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2200000735
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0100000721
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:1200000721
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:310000072b
+
+Time:      1875
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1100000735
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:2200000721
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:0000000735
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:200000072b
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:2000000717
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:120000072b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:300000072b
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:210000072b
+
+Time:      1885
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:1200000735
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:0300000749
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:000000073f
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:030000072b
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:2300000721
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1000000735
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:220000073f
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:0300000721
+
+Time:      1895
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2000000735
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:210000073f
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:120000073f
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1100000749
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:1300000735
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:020000073f
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0100000735
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:110000073f
+
+Time:      1905
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2200000749
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000753
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:020000075d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3300000735
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:130000073f
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:1000000753
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:0100000749
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1200000753
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:0300000735
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:010000073f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1000000749
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2200000753
+
+Time:      1915
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:2100000749
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3100000749
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0000000749
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:2000000767
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:100000073f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1100000753
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2000000749
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:310000073f
+
+Time:      1925
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0300000753
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:200000075d
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:000000075d
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:1200000767
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:120000075d
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:010000075d
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1300000767
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:3300000753
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:2200000767
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:130000075d
+
+Time:      1935
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2300000753
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000771
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:100000077b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:0000000767
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0100000767
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:030000075d
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:1000000767
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:1200000771
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:110000075d
+
+Time:      1945
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:2300000767
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:0200000785
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:1100000771
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:010000077b
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:1200000785
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:210000077b
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:2100000785
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:0100000771
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:200000077b
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:3100000785
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:3200000785
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:320000077b
+
+Time:      1955
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:0200000771
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:0000000785
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:3300000771
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:110000077b
+
+Time:      1965
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:130000077b
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:000000078f
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:110000078f
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:130000078f
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:000000077b
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:1000000785
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1100000785
+
+Time:      1975
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:210000078f
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:03000007a3
+Output[1][0]: Dx:1 Dy:0 sDx:0 sDy:1 Data:020000078f
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:200000078f
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:0100000785
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:2000000785
+
+Time:      1985
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:220000075d
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:2300000799
+Output[1][1]: Dx:1 Dy:1 sDx:0 sDy:0 Data:11000007ad
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:0100000799
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:11000007a3
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:0000000799
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:2000000799
+Output[3][1]: Dx:3 Dy:1 sDx:0 sDy:0 Data:1100000799
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:21000007a3
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:1200000799
+
+Time:      1995
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:01000007a3
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:01000007ad
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:02000007a3
+Output[1][2]: Dx:1 Dy:2 sDx:0 sDy:0 Data:02000007ad
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:20000007ad
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:12000007a3
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:22000007ad
+
+Time:      2005
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:00000007b7
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:21000007c1
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:1000000799
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:13000007a3
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:31000007b7
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:00000007a3
+
+Time:      2015
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:21000007b7
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:10000007c1
+Output[2][1]: Dx:2 Dy:1 sDx:0 sDy:0 Data:11000007c1
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:01000007b7
+Output[2][3]: Dx:2 Dy:3 sDx:0 sDy:0 Data:11000007b7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:30000007cb
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:32000007cb
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:20000007a3
+
+Time:      2025
+Output[0][0]: Dx:0 Dy:0 sDx:1 sDy:1 Data:32000007b7
+Output[0][1]: Dx:0 Dy:1 sDx:1 sDy:0 Data:20000007c1
+Output[0][2]: Dx:0 Dy:2 sDx:1 sDy:0 Data:30000007ad
+Output[0][3]: Dx:0 Dy:3 sDx:1 sDy:0 Data:32000007ad
+Output[1][3]: Dx:1 Dy:3 sDx:0 sDy:0 Data:12000007cb
+Output[2][0]: Dx:2 Dy:0 sDx:0 sDy:1 Data:01000007c1
+Output[2][2]: Dx:2 Dy:2 sDx:0 sDy:0 Data:02000007b7
+Output[3][0]: Dx:3 Dy:0 sDx:0 sDy:1 Data:21000007cb
+Output[3][2]: Dx:3 Dy:2 sDx:0 sDy:0 Data:31000007cb
+Output[3][3]: Dx:3 Dy:3 sDx:0 sDy:0 Data:12000007c1
+
